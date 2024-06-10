@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ORIGINAL_FILE=
+ORIGINAL_FILE= "orginal.txt"
 COPY_FILE="copy.txt"
 
 while true; do
